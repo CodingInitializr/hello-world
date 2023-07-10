@@ -1,6 +1,8 @@
 # Hello world
 
-This is a simple hello world tutorial to highlight how java code can be compiled and run.
+This is a simple hello world tutorial to highlight how java code can be compiled and run.  
+
+All the bellow commands are expected to be run from the root of the repository.
 
 ## Compile
 
